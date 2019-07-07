@@ -43,7 +43,7 @@ Kill Media Center Immediate closure in 0 seconds and saving settings.
 
 
 -------------------------------------------------------------------
-Nev Version 0.0.9 plugin.program.Kill Media Center.31_01_2017
+Old Version 0.0.9 plugin.program.Kill Media Center.31_01_2017
 
 This version is compatible Multisystem.platform.
 Compatible Device:
